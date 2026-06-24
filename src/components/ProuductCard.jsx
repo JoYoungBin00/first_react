@@ -9,3 +9,4 @@ export default function ProductCard({ name, price, brand }) {
   );
 }
 
+
