@@ -1,5 +1,5 @@
 import Card from "./components/Card";
-import ProductCard from "./components/ProuductCard";
+import ProductCard from "./components/ProductCard";
 import './App.css'
 
 function App() {
