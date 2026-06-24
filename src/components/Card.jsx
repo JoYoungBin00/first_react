@@ -7,3 +7,4 @@ export default function Card({ name, price, brand }) {
     </div>
   );
 }
+export default Card;
